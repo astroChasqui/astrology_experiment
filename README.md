@@ -35,3 +35,7 @@ An implementation file is included in this repo. This activity was created by th
 I run this experiment on the first day of my introductory astronomy classes for non-majors. So far all my results have been around 8% "accurate", a suspicious 1/12 chance ... hmmm ...
 
 Have fun!
+
+## Troubleshooting
+
+It is possible that the websites from which the horoscopes are downloaded will change their url format, in which case this code will not work. You can try to fix that by looking at the base and url variables inside the code. Otherwise contact me and I will try to keep this up-to-date.
