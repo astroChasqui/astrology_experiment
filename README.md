@@ -30,6 +30,8 @@ Again, we specified the output file name here (sfgate_today.txt).
 
 Make a group of people read the entire horoscope and ask them to tell you which one best matches their day **yesterday**. Then, show them the key and ask who got their horoscope "right". Go on to discuss how accurate are the predictions of astrology.
 
+An implementation file is included in this repo. This activity was created by the [Astronomical Society of the Pacific](http://astrosociety.org/edu/astro/act3/astrologyprint.html).
+
 I run this experiment on the first day of my introductory astronomy classes for non-majors. So far all my results have been around 8% "accurate", a suspicious 1/12 chance ... hmmm ...
 
 Have fun!
